@@ -16,10 +16,10 @@ e.g.:
 ```
 
 ## Changelog
-see [changelog here](https://github.com/issiki/hexo-ruby-marks)
+see [changelog here](https://github.com/issiki/hexo-ruby-marks).
 
 ## Issues
-submit [issues here](https://github.com/issiki/hexo-ruby-marks/issues)
+submit [issues here](https://github.com/issiki/hexo-ruby-marks/issues).
 
 ## License
 MIT ©[Futaba Isshiki](https://www.futaba.love)
