@@ -1,6 +1,6 @@
 {
   "name": "hexo-ruby-marks",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Ruby charater tag for Hexo.",
   "main": "index.js",
   "scripts": {
@@ -20,6 +20,5 @@
     "url": "https://github.com/issiki/hexo-ruby-marks/issues"
   },
   "homepage": "https://github.com/issiki/hexo-ruby-marks",
-  "dependencies": {
-  }
+  "dependencies": {}
 }
