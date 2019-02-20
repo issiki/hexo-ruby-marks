@@ -11,13 +11,16 @@ via npm:
 
 **CONFLICT** with other hexo plugins that have registered `ruby` tag.
 
-### {% ruby *base*|*top text* %}
+{% ruby _**base**|**top text**_ %}
 
 e.g.:
 ```
 {% ruby 初音未来|Hatsune Miku %}
 ```
----> `<ruby><rb>初音未来</rb><rp>(</rp><rt>chū yīn wèi lái</rt><rp>)</rp></ruby>`
+↓ ↓ ↓
+```html
+<ruby><rb>初音未来</rb><rp>(</rp><rt>chū yīn wèi lái</rt><rp>)</rp></ruby>
+```
 
 
 ## Changelog
