@@ -27,4 +27,4 @@ see [changelog here](https://github.com/issiki/hexo-ruby-marks).
 submit [issues or bus here](https://github.com/issiki/hexo-ruby-marks/issues). Thank you!
 
 ## License
-MIT ©[Futaba Isshiki](https://www.futaba.love)
+MIT ©[Futaba Isshiki](https://futaba.love)
