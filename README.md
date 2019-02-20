@@ -11,7 +11,7 @@ via npm:
 
 **CONFLICT** with other hexo plugins that have registered `ruby` tag.
 
-### {% ruby base|top text %}
+### {% ruby *base*|*top text* %}
 
 e.g.:
 ```
@@ -21,10 +21,10 @@ e.g.:
 
 
 ## Changelog
-see [changelog here](https://github.com/issiki/hexo-ruby-marks).
+see [changelog here](https://github.com/issiki/hexo-ruby-marks/blob/master/CHANGELOG.md).
 
 ## Issues
-submit [issues or bus here](https://github.com/issiki/hexo-ruby-marks/issues). Thank you!
+submit [issues or bugs here](https://github.com/issiki/hexo-ruby-marks/issues). Thank you!
 
 ## License
 MIT ©[Futaba Isshiki](https://futaba.love)
