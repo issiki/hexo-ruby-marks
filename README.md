@@ -17,11 +17,12 @@ e.g.:
 ```
 {% ruby 初音未来|Hatsune Miku %}
 ```
-↓ ↓ ↓
-```html
-<ruby><rb>初音未来</rb><rp>(</rp><rt>chū yīn wèi lái</rt><rp>)</rp></ruby>
-```
 
+↓ ↓ ↓
+
+```html
+<ruby><rb>初音未来</rb><rp>(</rp><rt>Hatsune Miku</rt><rp>)</rp></ruby>
+```
 
 ## Changelog
 see [changelog here](https://github.com/issiki/hexo-ruby-marks/blob/master/CHANGELOG.md).
