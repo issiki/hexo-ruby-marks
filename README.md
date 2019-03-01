@@ -1,6 +1,5 @@
 # hexo-ruby-marks
-
-Ruby character tag for Hexo.
+A plugin for Hexo. A `ruby` tag allows users to quickly and easily insert `<ruby>` snippets into their posts.
 
 ## Install
 via npm:
@@ -10,11 +9,12 @@ via npm:
 ## Usage
 
 **CONFLICT** with other hexo plugins that have registered `ruby` tag.
-
-{% ruby _**base**|**top text**_ %}
+```ejs
+{% ruby _**base**_|_**top text**_ %}
+```
 
 e.g.:
-```
+```ejs
 {% ruby 初音未来|Hatsune Miku %}
 ```
 
